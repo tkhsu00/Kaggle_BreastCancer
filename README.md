@@ -3,7 +3,7 @@
 Data source: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 ## **Objective**
-The objective of this project was to predict whether a tumor is benign or malignant based on 30 features that are generated from digitized images of breast tumor, including radius, texture, and concavity. 
+The objective of this project was to predict whether a tumor is benign or malignant based on the features that are generated from digitized images of breast tumor, including radius, texture, and concavity. 
 
 ## **Method**
 1. Compare the accuracy and F1-score of common Machine Learning approaches, including **Logistic Regression**, **Random Forest**, and **Decision Tree**.
