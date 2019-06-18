@@ -1,4 +1,7 @@
-# Kaggle_BreastCancer
+# Breast Cancer Wisconsin (Diagnostic) Data Set
+
+Predict whether the cancer is benign or malignant
+https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 ## **Objective**
 The objective of this project was to predict whether a tumor is benign or malignant based on 30 features that are generated from digitized images of breast tumor, including radius, texture, and concavity. 
